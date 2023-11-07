@@ -1,8 +1,10 @@
 {
   "name": "pcg-react-components",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "keywords": [
     "react",
     "dev",
@@ -12,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/pablo-cg",
   "repository": {
-    "url": "https://github.com/pablo-cg",
+    "url": "https://github.com/pablo-cg/react-storybook",
     "type": "git"
   },
   "files": [
